@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Michel\\Desktop\\mysql-connector-j-9.1.0\\ConexaoPI\\lip\\mysql-connector-j-9.1.0.jar"
+    ]
+}
